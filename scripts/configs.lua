@@ -22,6 +22,7 @@ _FishMaster.poles = {
     6366, -- Darkwood Fishing Pole
     6256, -- Fishing Pole
     12225, -- Blump Family Fishing Pole
+    45992, -- Jeweled Fishing Pole
 }
 
 _FishMaster.lures = {
